@@ -1,8 +1,3 @@
-let num=10;
 
-if(num%2==0){
-print even num
-}
-else{
-print odd num
-}
+let n=5; 
+(n%2==0) ? console.log("even") : console.log("odd")
